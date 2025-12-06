@@ -1,4 +1,4 @@
-#Import packages
+#Import package
 from huggingface_hub import HfApi
 import os
 
